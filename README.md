@@ -1,2 +1,2 @@
-# uplodx-sauce
-Sauce code of uplodx.eu
+# uplodx.eu
+Source code of uplodx.eu - based on hnng.moe 
